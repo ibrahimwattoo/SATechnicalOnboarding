@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cb7f3dcb-4853-4e92-ae44-0d97fc21244e/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/My-first-static-web-page",
+    "appService.deploySubpath": "."
+}
